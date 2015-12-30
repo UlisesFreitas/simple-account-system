@@ -1,12 +1,12 @@
 === Simple Account System ===
-Contributors: ulisesfreitas
-Tags: users,accounts,login,custom account page
-Donate link: https://disenialia.com
-Requires at least: 4.4
-Tested up to: 4.4
-Stable tag: 1.0.0
-License: GPL-2.0+
-License URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+# Contributors: ulisesfreitas
+# Tags: users,accounts,login,custom account page
+# Donate link: https://disenialia.com
+# Requires at least: 4.4
+# Tested up to: 4.4
+# Stable tag: 1.0.0
+# License: GPL-2.0+
+# License URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
 A plugin to replace the default user flow, for login, logout, account(profile)
 
