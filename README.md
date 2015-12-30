@@ -18,6 +18,7 @@
 A plugin to replace the default user flow, for login, logout, account(profile)
 
 == Description ==
+
 A plugin to replace the default user flow, for login, logout, account(profile), with extra contact info fields, phone, address, country, city, zip code.
 This is a replacement for bring users a better experience on their accounts settings.
 What the plugin do: 
@@ -32,6 +33,7 @@ Plus it will create menu items, then you can configure at your site as you want 
 
 
 == Installation ==
+
 You should have the Apache mod mime and mod rewrite modules installed and WordPress custom permalinks (Settings->Permalinks).
 From your WordPress dashboard
 
@@ -46,13 +48,19 @@ Upload the \'simple-account-system\' directory to your \'/wp-content/plugins/\' 
 Activate Simple Account System from your Plugins page. 
 
 == Screenshots ==
+
 1. screenshot-1.png
+
 2. screenshot-2.png
+
 3. screenshot-3.png
 
 == Changelog ==
+
 Initial
+
 1.0
 
 == Upgrade Notice ==
+
 None this time
